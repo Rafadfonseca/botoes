@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Vegina';
+    src: url('font/veginia/Veginia\ -\ Personal\ Use.otf');
+}
+
+.btn-secondary{
+    color: black;
+    background-color: rgb(197, 127, 255);
+    border: 1px solid black;
+}
+h1{
+    margin-top: 20PX;
+    font-family: 'Vegina';
+}
+body{
+    margin-left: 20px;
+}
